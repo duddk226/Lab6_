@@ -1,6 +1,4 @@
 #include <iostream>
-#include <fstream>
-#include <sstream>
 #include "disctionary.h"
 
 int main() {
@@ -25,7 +23,10 @@ int main() {
                 cout << "Good Bye";
                 exit(0);
             default:
-                cout << "Choice other than 1, 2 and 3" << endl;
+                cout << "please type 1, 2 ,3 or 4" << endl;
+                cin.clear();
+               // cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+                cin.ignore(4,'\n'); // ignore next 4 line
                 break;
         }
 
