@@ -41,9 +41,8 @@ void dictionary::print_dictionary() {
 
 void dictionary::search() {
     string search;
-    cout << "What would you like to search? (ex: Human)";
+    cout << "What would you like to search? (ex: human)";
     cin >> ws >> search;//search Human
-
     ::map<string, string>::iterator it;
     it = word_defi.find(search);
     if (it != word_defi.end()) {
@@ -69,6 +68,7 @@ void dictionary::add() {
         cout << "what does it mean?";
         getline(cin >> ws, newDefi);
         my_file << "\n" << newWord << "-" << newDefi;
+        word_defi.insert(make_pair(newWord, newDefi));
         cout << "\n\nThe word is successfully added into dictionary" << endl;
     }
 }

@@ -1,10 +1,11 @@
-Computer-an electronic device for storing and processing data, typically in binary form.
-Human-a human being, especially a person as distinguished from an animal or an alien.
-Animal-a living organism that feeds on organic matter.
-Water-transparent, tasteless, odorless, and nearly colorless chemical substance,
-Dog-member of the genus canines, which forms part of the wolf-like canids, and is the most widely abundant terrestrial carnivore
-Juice-The liquid obtained from or present in fruit or vegetables.
-Milk-an opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.
-Object-a material thing that can be seen and touched.
-Coffee-a hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub.
-Barista-A barista is a person, usually a coffeehouse employee, who prepares and serves espresso-based coffee drinks
+computer-an electronic device for storing and processing data, typically in binary form.
+human-a human being, especially a person as distinguished from an animal or an alien.
+animal-a living organism that feeds on organic matter.
+water-transparent, tasteless, odorless, and nearly colorless chemical substance,
+dog-member of the genus canines, which forms part of the wolf-like canids, and is the most widely abundant terrestrial carnivore
+juice-The liquid obtained from or present in fruit or vegetables.
+milk-an opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.
+object-a material thing that can be seen and touched.
+coffee-a hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub.
+barista-A barista is a person, usually a coffeehouse employee, who prepares and serves espresso-based coffee drinks
+school-an institution for educating children.
