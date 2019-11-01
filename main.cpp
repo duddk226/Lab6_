@@ -25,8 +25,8 @@ int main() {
             default:
                 cout << "please type 1, 2 ,3 or 4" << endl;
                 cin.clear();
-               // cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-                cin.ignore(4,'\n'); // ignore next 4 line
+               cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+                //cin.ignore(4,'\n'); // ignore next 4 line
                 break;
         }
 

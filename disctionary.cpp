@@ -43,7 +43,7 @@ void dictionary::search() {
     string search;
     cout << "What would you like to search? (ex: human)";
     cin >> ws >> search;//search Human
-    ::map<string, string>::iterator it;
+    ::map<string, string>::iterator it; //need iterator to search map
     it = word_defi.find(search);
     if (it != word_defi.end()) {
         cout << "\nDefinition: " << it->second << endl;
