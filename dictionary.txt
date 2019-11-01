@@ -1,0 +1,8 @@
+Computer-an electronic device for storing and processing data, typically in binary form.
+Human-a human being, especially a person as distinguished from an animal or an alien.
+Animal-a living organism that feeds on organic matter.
+Water-transparent, tasteless, odorless, and nearly colorless chemical substance,
+Dog-member of the genus canines, which forms part of the wolf-like canids, and is the most widely abundant terrestrial carnivore
+Juice-The liquid obtained from or present in fruit or vegetables.
+Milk-an opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.
+Object-a material thing that can be seen and touched.

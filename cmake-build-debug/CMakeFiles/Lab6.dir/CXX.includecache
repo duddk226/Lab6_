@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/younga/CLionProjects/Lab6/disctionary.cpp
+disctionary.h
+/Users/younga/CLionProjects/Lab6/disctionary.h
+map
+-
+iterator
+-
+fstream
+-
+
+/Users/younga/CLionProjects/Lab6/disctionary.h
+iostream
+-
+map
+-
+
