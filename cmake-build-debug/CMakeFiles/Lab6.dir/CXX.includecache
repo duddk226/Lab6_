@@ -6,15 +6,19 @@
 
 #IncludeRegexTransform: 
 
+/Users/younga/CLionProjects/Lab6/disctionary.cpp
+disctionary.h
+/Users/younga/CLionProjects/Lab6/disctionary.h
+map
+-
+iterator
+-
+fstream
+-
+
 /Users/younga/CLionProjects/Lab6/disctionary.h
 iostream
 -
 map
 -
-
-/Users/younga/CLionProjects/Lab6/main.cpp
-iostream
--
-disctionary.h
-/Users/younga/CLionProjects/Lab6/disctionary.h
 

@@ -1,5 +1,5 @@
 //
-// Created by Younga on 30/10/2019.
+// Created by Younga  on 30/10/2019.
 //
 
 #include "disctionary.h"
@@ -52,6 +52,7 @@ void dictionary::search() {
         cout << "The word does not exist in our dictionary. \nPress 2 to search" << endl;
     }
 }
+
 void dictionary::add() {
     string newWord;
     string newDefi;
