@@ -63,9 +63,11 @@ void dictionary::add() {
     it = word_defi.find(newWord);
     if (it != word_defi.end()) {
         cout << "The word does exit in our dictionary \n" << endl;
+        add();
     } else {
         cout << "what does it mean?";
         getline(cin >> ws, newDefi);
         my_file << "\n" << newWord << "-" << newDefi;
+        cout << "\n\nThe word is successfully added into dictionary" << endl;
     }
 }

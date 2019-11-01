@@ -6,3 +6,5 @@ Dog-member of the genus canines, which forms part of the wolf-like canids, and i
 Juice-The liquid obtained from or present in fruit or vegetables.
 Milk-an opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.
 Object-a material thing that can be seen and touched.
+Coffee-a hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub.
+Barista-A barista is a person, usually a coffeehouse employee, who prepares and serves espresso-based coffee drinks
